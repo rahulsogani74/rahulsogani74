@@ -1,10 +1,9 @@
-Hey guys! 
-My name is Rahul Sogani. I'm from India, living in Jaipur.
-
 # 💫 About Me:
 🌱 I’m currently learning<br>
 📫 How to reach me: rahulsogani74@gmail.com<br>
 
+# ✍ Blog & Writing
+Apart from coding, I also maintain a blog - you can find my articles on my website at ownsit.xyz. The goal of my blog is to help developpers or IT enthousiasts find answers to certain issues. Anybody can publish content, so feel free to write some articles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-sogani-975581158) 
