@@ -1,5 +1,9 @@
+Hey guys! 
+My name is Rahul Sogani. I'm from India, living in Jaipur.
+
 # 💫 About Me:
 🌱 I’m currently learning<br>
+📫 How to reach me: rahulsogani74@gmail.com<br>
 
 
 ## 🌐 Socials:
