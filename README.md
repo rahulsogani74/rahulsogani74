@@ -3,8 +3,17 @@
 
 # 💫 About Me:
 🌱 I’m currently learning<br>
-📫 How to reach me: rahulsogani74@gmail.com<br>
+
 👨‍💻 All of my projects are available at https://rahul.sogani.in/ <br>
+- 🔭 I’m currently working on [Ownsit](https://ownsit.xyz/)
+
+- 👯 I’m looking to collaborate on [E-Commerce](https://shop.ownsit.xyz/)
+
+- 👨‍💻 All of my projects are available at [https://rahul.sogani.in/](https://rahul.sogani.in/)
+
+- 📝 I regularly write articles on [https://ownsit.xyz/blogs](https://ownsit.xyz/blogs)
+
+- 📫 How to reach me **rahulsogani74@gmail.com**
 
 # ✍ Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="[ownsit](https://ownsit.xyz/)" target="_blank"> [ownsit.xyz](https://ownsit.xyz/) <a>. The goal of my blog is to help developpers or IT enthousiasts find answers to certain issues. Anybody can publish content, so feel free to write some articles.
