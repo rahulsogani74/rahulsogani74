@@ -4,7 +4,6 @@
 # 💫 About Me:
 🌱 I’m currently learning<br>
 
-👨‍💻 All of my projects are available at https://rahul.sogani.in/ <br>
 - 🔭 I’m currently working on [Ownsit](https://ownsit.xyz/)
 
 - 👯 I’m looking to collaborate on [E-Commerce](https://shop.ownsit.xyz/)
